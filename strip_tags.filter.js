@@ -8,7 +8,9 @@
 	
 		function Filter(text){
 			return text ? String(text).replace(/<[^>]+>/gm, '') : '';
-		}	
+		}
+		
+		return filter;
 	}
 
 }) (angular);
