@@ -1,4 +1,4 @@
-# angularstriptags
+# Angular Strip Tags
 StripTags for Angularjs
 
 
